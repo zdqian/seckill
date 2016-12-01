@@ -1,2 +1,3 @@
 # seckill
-Flash sale demo based on SpingMVC+Spring+Mybatis. From Yijun Zhang imooc. .
+一个SSM的小例子。
+Demo based on SpingMVC+Spring+Mybatis. 
